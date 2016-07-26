@@ -1,0 +1,2 @@
+# AndroidResourceSplit
+Android布局文件分包处理方法
